@@ -1,0 +1,12 @@
+Name, Phone, Email, Score, Rank, isOnServer
+ibbi, sdfgh, ib@gmail.com, 36, 1, True
+ttt, yyyy, tt@gmail.com, 36, 2, True
+qasim, 05897274692, qasi2m@rayqube.com, 30, 3, True
+qasim, 0589727469, qasim@rayqube.com, 12, 4, True
+test, asdas, test@gmail.com, 1, 5, True
+asd, asd, sada@gmail.com, 0, 6, True
+asd, asd, sada@gmail.com, 0, 7, True
+asd, asd, sada@gmail.com, 0, 8, True
+asd, asd, sada@gmail.com, 0, 9, True
+asd, asd, sada@gmail.com, 0, 10, True
+asd, asd, sada@gmail.com, 0, 11, True

@@ -1,0 +1,64 @@
+KEY,English
+Flag,Flag-US
+Language,English
+Info,Localization example
+Sound,SOUND
+Music,Music
+Desc,English localization
+Paragraph,"This example shows how to ""implement"" localization using NGUI. In order to localize a widget, simply attach [000000]UILocalize[-] script to it. The script will localize the sprite if it's a [000000]UISprite[-], or the text if it's a [000000]UILabel[-]. If you want to localize something else, just implement the [000000]OnLocalize[-] function. Either way, the actual data is defined via text assets specified on the [000000]Localization[-] script which must be present in the scene."
+Shop,SHOP
+BttnContinue,CONTINUE
+BttnTweet,SHARE
+LvlCmpltBttn,Level Complete Bonus
+TimeBonus,Time Bonus
+Total,TOTAL
+LvlCmpltValue,510
+TimeBonusValue,871
+TotalValue, $892
+EnoughCoins,You don't have enough coins !
+Home,HOME
+GetMore,GET MORE
+RateUs,Rate Us
+How,How would you rate this game?
+Skip,Skip
+Never,Never
+EpisodeUnlocked,New Episode Unlocked
+Ok,OK
+Crashed,Crashed!
+Retry,RETRY
+Controls,CONTROLS
+Touch,TOUCH
+Steering,STEERING
+Tilt,TILT
+Resume,RESUME
+Exit,EXIT
+Restart,RESTART
+CurrentAmmount,0
+CLabel1,1,500
+ALabel1,$0.99
+CLabel2,4,100
+ALabel2,$2.99
+CLabel3,15,500
+ALabel3,$4.99
+CLabel4,30,900
+ALabel4,$9.99
+CLabel5,58,500
+ALabel5,$19.99
+Offer,Best Offer
+CurrentCoins,115,303
+Yes,YES
+Back,BACK
+OutOfTime,Out of Time
+Coins,500 Coins
+UnlockEpisode,UNLOCK EPISODE!
+Unlock,Unlock
+Cancel,Cancel
+MoreCoins,You need more coins to unlock!
+No,NO
+Episode3Price,$ 8500
+Episode2Price,$ 450
+Upgrade,UPGRADE
+SKip,SKIP
+AirTimeBonus, AirTime Bonus
+JumpBonus, Jump Bonus
+Enjoy, Enjoying City Car Stunts 2016?
